@@ -1,5 +1,5 @@
-import heroImage from '../assets/image-686.png';
-import checkmarkIcon from '../assets/checkmark-circle.svg';
+import heroImage from '../assets/Group 686.png';
+import checkmarkIcon from '../assets/checkmark.png';
 
 const Hero = () => {
   return (

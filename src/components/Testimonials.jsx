@@ -1,6 +1,6 @@
-import wavyDoodle from '../assets/wavy-doodle.svg';
-import testimonialFemale from '../assets/testimonial-female.jpg';
-import testimonialMale from '../assets/testimonial-male.jpg';
+import wavyDoodle from '../assets/wavvy-doodle.png';
+import testimonialFemale from '../assets/testimonial-1.png';
+import testimonialMale from '../assets/testimonial-2.png';
 
 const Testimonials = () => {
   return (

@@ -1,11 +1,11 @@
 // Import all your client logos here
 import logoOpenZeppelin from '../assets/zepplin-logo.png';
-import logoOracle from '../assets/logo-oracle.svg';
-import logoMorpheus from '../assets/logo-morpheus.svg';
-import logoSamsung from '../assets/logo-samsung.svg';
-import logoMonday from '../assets/logo-monday.svg';
-import logoSegment from '../assets/logo-segment.svg';
-import logoProtonet from '../assets/logo-protonet.svg';
+import logoOracle from '../assets/oracle-logo.png';
+import logoMorpheus from '../assets/morpheus-logo.png';
+import logoSamsung from '../assets/samsung-logo.png';
+import logoMonday from '../assets/monday-logo.png';
+import logoSegment from '../assets/segment-logo.jpeg';
+import logoProtonet from '../assets/protonet-logo.png';
 
 const Clients = () => {
   return (

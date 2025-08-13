@@ -1,8 +1,8 @@
 // Import your social icons
-import linkedinIcon from '../assets/linkedin-icon.svg';
-import messengerIcon from '../assets/messenger-icon.svg';
-import twitterIcon from '../assets/twitter-icon.svg';
-import infinityIcon from '../assets/infinity-icon.svg';
+import linkedinIcon from '../assets/linkedin-logo.png';
+import messengerIcon from '../assets/messenger-logo.jpeg';
+import twitterIcon from '../assets/twitter-logo.png';
+import infinityIcon from '../assets/infinity-logo.png';
 
 const Footer = () => {
     return (
